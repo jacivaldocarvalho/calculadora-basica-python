@@ -28,7 +28,7 @@ Caso seja inserido um número de operação que não exista, a função retornar
    ```bash
    python calculadora.py
    ```
-## Exemplo de Uso
+### Exemplo de Uso
 No código, você encontrará uma função main que demonstra as operações disponíveis:
 
   ```python
