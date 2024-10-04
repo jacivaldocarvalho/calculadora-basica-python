@@ -47,6 +47,10 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE) - consulte o arquivo LICENSE para mais detalhes.
 
+## Autor
+**Jacivaldo Carvalho**  
+[LinkedIn](https://www.linkedin.com/in/jacivaldocarvalho/) 
+
 
 
   
