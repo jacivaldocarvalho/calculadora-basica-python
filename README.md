@@ -26,7 +26,7 @@ Caso seja inserido um número de operação que não exista, a função retornar
 3. Execute o script Python:
 
    ```bash
-   python calculadora.py
+   python calculadora_basica.py
    ```
 ### Exemplo de Uso
 No código, você encontrará uma função main que demonstra as operações disponíveis:
