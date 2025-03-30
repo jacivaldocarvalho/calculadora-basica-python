@@ -8,7 +8,7 @@
 - [Pré-Requisitos](#pré-requisitos)
 - [Contribua](#contribua)
 - [Licença](#licença)
-- [Contato e Network](#contato-e-network)
+- [Contatos e Network](#contatos-e-network)
 
 
 ## Descrição
@@ -78,12 +78,14 @@ Não há dependências externas necessárias, pois o script utiliza apenas funci
 Se você deseja contribuir com melhorias ou correções, sinta-se à vontade para abrir **issues** ou **pull requests**. A sua contribuição é muito bem-vinda! 
 
 
-## Contato e Network
+## Contatos e Network
 
 - **LinkedIn**: [Jacivaldo Carvalho](https://www.linkedin.com/in/jacivaldocarvalho/) 👔
 - **E-mail**: jacivaldo.carvalho@gmail.com 📧
 - **GitHub**: [jacivaldocarvalho](https://github.com/jacivaldocarvalho) 🐙
 - **Medium**: [jacivaldocarvalho](https://medium.com/@jacivaldocarvalho) ✍️
+
+Sempre aberto a novas conexões e oportunidades de aprendizado!
 
 ## Licença
 
